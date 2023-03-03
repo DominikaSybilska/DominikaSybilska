@@ -4,6 +4,7 @@
 Some of the projects have been focused only to show us how working in teams is. We learn some agile methodologies and we have tried to cooperate keeping the main agile rules.
 Also, I just want to show that I am familiar with some programming basics.
 
+
 - 🌱 I’m currently learning: about manual testing and QA issues. I have also prepared myself to pass the ISTQB exam.
 
 - 👯 I’m looking for: a job or intern as a manual tester or QA Engineer.
@@ -28,6 +29,10 @@ Also, I just want to show that I am familiar with some programming basics.
 
 But I hope the list will be longer and longer after passing the exam.
 
-- 📫 How to reach me: https://www.linkedin.com/in/dominika-sybilska/
+- 📫 How to reach me: 
+<ul>
+<li>https://www.linkedin.com/in/dominika-sybilska/</li>
+<li><b>my code wars</b>: https://www.codewars.com/users/DominikaSybilska </li>
+
 - ⚡ My hobbies and intrests : I love surfing and football.
 
