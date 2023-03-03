@@ -33,6 +33,6 @@ But I hope the list will be longer and longer after passing the exam.
 <ul>
 <li>https://www.linkedin.com/in/dominika-sybilska/</li>
 <li><b>my code wars</b>: https://www.codewars.com/users/DominikaSybilska </li>
-
+</ul>
 - ⚡ My hobbies and intrests : I love surfing and football.
 
