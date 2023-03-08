@@ -5,7 +5,7 @@ Some of the projects have been focused only to show us how working in teams is. 
 Also, I just want to show that I am familiar with some programming basics.
 
 
-- 🌱 I’m currently learning: about manual testing and QA issues. I have also prepared myself to pass the ISTQB exam.
+- 🌱 I’m currently learning: about manual testing and QA issues. I passed the ISTQB FL exam on 07.03.2023.
 
 - 👯 I’m looking for: a job or intern as a manual tester or QA Engineer.
 
