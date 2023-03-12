@@ -22,6 +22,7 @@ Also, I just want to show that I am familiar with some programming basics.
 <ul>
 <li>Certyfikowany tester istqb. poziom podstawowy.</li>
 <li>Ścieżka testera. certyfikat istqb w pytaniach i odpowiedziach</li>
+ <li>Pasja testowania</li>
 </ul>
 </li>
 </ul>
