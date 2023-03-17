@@ -12,6 +12,7 @@ Also, I just want to show that I am familiar with some programming basics.
 <ul>
 <li>Udemy Courses such as:
 <ul>
+<li>Postman - testowanie REST API</li>
 <li>The Complete 2023 Software Testing Bootcamp</li>
 <li>Praktyczny kurs testowania oprogramowania</li>
 </ul>
